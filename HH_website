@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Harry Hwang
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Hi! Welcome to my page! My name is Haw-Jan Hwang黃浩然, just call me Harry. My major was Economics and right now I'm currently studying on my second master degree now major in Business Analytics.I'm actively looking for a data-science-related job. Please contact me if you have any oppertunity. Thank you! 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -19,14 +19,14 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: https://www.facebook.com/harry.hwang.56
   flickr:
-  github: barryclark/jekyll-now
+  github: harry-hwang.github.io/HH_website
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
