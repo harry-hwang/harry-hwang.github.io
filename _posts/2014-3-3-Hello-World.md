@@ -1,7 +1,18 @@
 ---
 layout: post
-title: Harry Hwang
+title: Second time
+---
+Oh, it's cool
+
+
+
+
+
+
+---
+layout: post
+title: First Time
 ---
 
-Welcome to my page! My name is 黃浩然 (Hwang, Haw-Jan), just call me Harry! I'm currently studying on my second master degree and my major is Business Analytics and I well get the degree in 2020 May. I am actively looking for a data-science-related job. Please contact me if you have any oppertunity. Thank you!
+Hi! This is my first time using this, just want to try how to work on this. Oh yeah! 
 
